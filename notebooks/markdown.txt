@@ -1,0 +1,19 @@
+"Step 1 – Importing & Loading Data"
+
+We load the dataset and check the shape and columns.
+
+"Step 2 – Feature Distributions"
+
+Histograms show how each feature is distributed and if the data is skewed.
+
+"Step 3 – Outlier Detection"
+
+Boxplots help identify outliers in each numeric feature.
+
+"Step 4 – Correlation Matrix"
+
+Correlation heatmap shows relationships between features.
+
+"Step 5 – Feature vs Target"
+
+We visualize how each parameter differs between Safe and Unsafe water samples.
